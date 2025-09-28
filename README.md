@@ -18,4 +18,5 @@ root@desk1:/zsata/vcs_zsata/000000001VCSUNCONVENTIONALPRJCTUMBRELLASHCHAKAKNACHN
 
 https://www.youtube.com/watch?v=2oIw4YwA0o0&list=PLR1mqFMPJdDLpLJbLQEBzUpwKYZWa0B9V&index=2
 
-https://github.com/PAHANAT/PAHANAT
+https://github.com/PAHANAT/PAHANAT/issues/2
+CURRENT ACDC? MODULE ACDC BEGIN MODULE WORLD BEGIN
